@@ -20,6 +20,12 @@ This repository contains a **Power BI Dashboard** to analyze business metrics li
 
 ---
 
+## **Dashboard Screenshot**
+
+![Dashboard Screenshot](Capture.PNG)
+
+---
+
 ## **Files in the Repository**
 
 | File Name   | Description                        |
